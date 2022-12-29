@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>
+    <category name="Other">
+        <products-count>28</products-count>
+        <average-price>625.935714</average-price>
+        <total-revenue>17526.20</total-revenue>
+    </category>
+    <category name="Autoparts">
+        <products-count>29</products-count>
+        <average-price>691.911034</average-price>
+        <total-revenue>20065.42</total-revenue>
+    </category>
+    <category name="Drugs">
+        <products-count>32</products-count>
+        <average-price>872.049063</average-price>
+        <total-revenue>27905.57</total-revenue>
+    </category>
+    <category name="Weapons">
+        <products-count>33</products-count>
+        <average-price>704.440606</average-price>
+        <total-revenue>23246.54</total-revenue>
+    </category>
+    <category name="Adult">
+        <products-count>34</products-count>
+        <average-price>839.265294</average-price>
+        <total-revenue>28535.02</total-revenue>
+    </category>
+    <category name="Electronics">
+        <products-count>36</products-count>
+        <average-price>745.479722</average-price>
+        <total-revenue>26837.27</total-revenue>
+    </category>
+    <category name="Fashion">
+        <products-count>36</products-count>
+        <average-price>791.834722</average-price>
+        <total-revenue>28506.05</total-revenue>
+    </category>
+    <category name="For Children">
+        <products-count>38</products-count>
+        <average-price>833.379211</average-price>
+        <total-revenue>31668.41</total-revenue>
+    </category>
+    <category name="Sports">
+        <products-count>39</products-count>
+        <average-price>680.335128</average-price>
+        <total-revenue>26533.07</total-revenue>
+    </category>
+    <category name="Business">
+        <products-count>39</products-count>
+        <average-price>876.703077</average-price>
+        <total-revenue>34191.42</total-revenue>
+    </category>
+    <category name="Garden">
+        <products-count>42</products-count>
+        <average-price>754.110476</average-price>
+        <total-revenue>31672.64</total-revenue>
+    </category>
+</categories>
